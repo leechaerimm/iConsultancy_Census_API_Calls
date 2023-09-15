@@ -1,4 +1,8 @@
-﻿iConsultancy Census API Documentation
+** This is txt file, to view in docx file, please use the link below.
+https://docs.google.com/document/d/1qdcLpnUB7WC8SKdEFWu2ao4tEY8X_KV3kb6XNAQe4Qk/edit#heading=h.xd5yzo8e7beg
+
+iConsultancy Census API Documentation
+
 1.0. Introduction to the Census API
 The United States Census Bureau provides an official API for accessing its data. This API, while very powerful, has a learning curve. Please keep in mind that no matter your task, you’re going to need to learn this API if you want results. This section will teach you the basics of it, and will show you some of the code snippets we have made to assist your efforts. 
 This example API call of the decennial census shows some of the fundamental parts of the API. 
